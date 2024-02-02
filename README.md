@@ -10,7 +10,7 @@ This repository contains code for the paper **"Quality Does Matter: A Detailed L
 ## Citation
 
 ```
-@misc{surangika-etal-2024-tuning,
+@misc{surangika-etal-quality-matters-2024,
   title={Quality Does Matter: A Detailed Look at the Quality and Utility of Web-Mined Parallel Corpora(2024)}, 
   author={Surangika Ranathunga and Nisansa de Silva and Menan Velayuthan and Aloka Fernando and Charitha Rathnayake},
   year={2024}
