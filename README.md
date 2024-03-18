@@ -2,7 +2,11 @@
 This repository contains code for the paper **Quality Does Matter: A Detailed Look at the Quality and Utility of Web-Mined Parallel Corpora(2024)**. If you have any questions, please feel free to create a Github issue .
 
 ## Models
-
+We used fairseq library to train our vanilla transformer models. 
+|Model Name|  English -> Sinhala | English -> Tamil |
+|--|--|--|
+| NLLB cleaned translators top_25K | [link](https://drive.google.com/drive/folders/1ea3QO0LXvL6oevSXitlfKKsmzODlsWpI?usp=sharing)|[link](https://drive.google.com/drive/folders/12S2KwFgafD_yORd2tty6yh80-S15X5Aq?usp=sharing)
+| NLLB cleaned translators complete|[link](https://drive.google.com/drive/folders/1ea3QO0LXvL6oevSXitlfKKsmzODlsWpI?usp=sharing) |[link](https://drive.google.com/drive/folders/12S2KwFgafD_yORd2tty6yh80-S15X5Aq?usp=sharing)
 
 ## Data
 The translator cleaned data is now released,
@@ -14,7 +18,7 @@ The translator cleaned data is now released,
 ## Todo
 
  1. ~~Upload links to data sets~~
- 2. Update links to models
+ 2. ~~Update links to models~~
  3. Release code for filtering data using LASER3
  4. Release notes on how to train data in fairseq library
 
